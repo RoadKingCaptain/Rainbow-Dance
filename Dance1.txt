@@ -1,1 +1,3 @@
 Dance file Main
+Step to the left
+Step to the right

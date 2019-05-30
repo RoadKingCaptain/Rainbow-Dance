@@ -2,3 +2,4 @@ Dance file Main
 Step to the left
 Step to the right
 Add a line at GH
+I would like to add a line in Visual Code
